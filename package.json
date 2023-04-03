@@ -1,17 +1,17 @@
 {
-    "name": "com.google.firebase.messaging",
-    "displayName": "Firebase Cloud Messaging",
-    "description": "Send targeted messages and notifications.",
-    "version": "10.6.0",
-    "unity": "2018.1",
-    "category": "google-for-unity",
-    "keywords": [
-        "Google",
-        "Firebase",
-        "Messaging",
-        "Cloud Messaging"
-    ],
-    "dependencies": {
-        "com.google.firebase.core": "10.6.0"
-    }
+  "name": "com.google.firebase.messaging",
+  "displayName": "Firebase Cloud Messaging",
+  "description": "Send targeted messages and notifications.",
+  "version": "10.7.0",
+  "unity": "2018.1",
+  "category": "google-for-unity",
+  "keywords": [
+    "Google",
+    "Firebase",
+    "Messaging",
+    "Cloud Messaging"
+  ],
+  "dependencies": {
+    "com.google.firebase.core": "10.7.0"
+  }
 }
